@@ -61,6 +61,11 @@ li a:hover{
     text-align: center;
 
 }
+.firstsec p{
+    letter-spacing: 0px;
+    font-size: 16px;
+    color: rgb(22, 22, 22);
+}
 section h1{
     font-family: muli;
     font-weight: lighter;
@@ -92,12 +97,12 @@ section p{
 }
 .before1{
     border-top: 1px solid !important;
-    height: 3.4px;
+    height: 4px;
     width: 18px;
     font-family: quicksand;
     text-decoration: none;
     color: rgb(22, 22, 22) !important;
-    margin-right: 8px;
+    margin-right: 3px;
     display: inline-block;
     content: "";
     box-sizing: inherit;
@@ -108,13 +113,133 @@ section p{
     font-family: quicksand;
     text-decoration: none;
     color: rgb(22, 22, 22) !important;
-    height: 3.4px;
+    height: 4px;
     display: inline-block;
     content: "";
-    margin-left: 8px;
+    margin-left: 3px;
     box-sizing: inherit;
 }
 .bnf:hover{
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(150, 130, 130);
     color: #ffffff !important;
+}
+div p{
+    text-align: center;
+    font-size: 23px;
+    color: rgb(89, 89, 89);
+    letter-spacing: 1px;
+}
+.left{
+    padding-top: 100px;
+    padding-left: 115px;
+    margin-right: 200px;
+    margin-top: 71px;
+    width: 25%;
+    height: 410px;
+    border-right: 1px solid rgb(219 210 206);
+}
+h4{
+    font-weight: 700;
+    padding-left: 44px;
+}
+.left p{
+    letter-spacing: 0px;
+    font-size: 16px;
+    text-align: left;
+    justify-items: center;
+    display: inline;
+}
+.middle{
+    padding-top: 100px;
+    padding-left: 472px;
+    margin-right: 200px;
+    margin-top: -508px;
+    width: 25%;
+    height: 410px;
+    border-right: 1px solid rgb(219 210 206);
+}
+
+.midl{
+    text-decoration: none;
+    color: rgb(135, 114, 103);
+}
+.butl{
+    display: block;
+    margin-left: 28px;
+    margin-top: 51px;
+    background-color: transparent;
+    border-color: currentColor;
+    border: .1px solid;
+    width: 220px;
+    height: 60px;
+}
+.beforel{
+    border-top: 1px solid !important;
+    height: 5px;
+    width: 21px;
+    font-family: quicksand;
+    text-decoration: none;
+    color: rgb(135, 114, 103) !important;
+    margin-right: 3px;
+    display: inline-block;
+    content: "";
+    box-sizing: inherit;
+}
+.afterl{
+    border-top: 1px solid !important;
+    width: 21px;
+    font-family: quicksand;
+    text-decoration: none;
+    color: rgb(135, 114, 103) !important;
+    height: 5px;
+    display: inline-block;
+    content: "";
+    margin-left: 3px;
+    box-sizing: inherit;
+}
+.butl:hover{
+    background-color: rgb(211, 185, 171);
+}
+.middle p{
+    letter-spacing: 0px;
+    font-size: 16px;
+    text-align: left;
+    justify-items: center;
+    display: inline;
+}
+.middle h4{
+    padding-left: 107px;
+}
+.right{
+    padding-left: 830px;
+    margin-right: 200px;
+    margin-top: -418px;
+    width: 25%;
+    height: 410px;
+}
+.right p{
+    letter-spacing: 0px;
+    font-size: 16px;
+    text-align: left;
+    justify-items: center;
+    display: inline;
+}
+.right h4{
+    padding-left: 107px;
+}
+.butlb{
+    display: block;
+    margin-left: 28px;
+    margin-top: 33px;
+    background-color: transparent;
+    border-color: currentColor;
+    border: .1px solid;
+    width: 220px;
+    height: 60px;
+}
+.butlb:hover{
+    background-color: rgb(211, 185, 171);
+}
+.right h4{
+    padding-left: 44px;
 }
