@@ -121,7 +121,6 @@ section p{
 }
 .bnf:hover{
     background-color: rgb(150, 130, 130);
-    color: #ffffff !important;
 }
 div p{
     text-align: center;
@@ -242,4 +241,30 @@ h4{
 }
 .right h4{
     padding-left: 44px;
+}
+footer p{
+    font-weight: 700;
+    color: rgb(247, 247, 247);
+    font-size: 12px;
+    padding-top: 60px;
+    letter-spacing: 0.167em;
+    text-align: center;
+}
+.foot{
+    background-color: rgb(51, 51, 51);
+    display: block;
+    height: 23%;
+    width: 107.1%;
+    margin-top: -20px;
+    margin-left: -82px;
+}
+span{
+    font-size: 12px;
+    text-align: left;
+    justify-content: left !important;
+    letter-spacing: 0.167em;
+    font-weight: 400;
+    color: rgb(169, 169, 169);
+    margin-left: -537px;
+    margin-top: 10px;
 }
